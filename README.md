@@ -1,2 +1,2 @@
-# Primer-Reto---Big-Bang-Data
+# Reto1_Big-Bang-Data
 Detective de Datos
